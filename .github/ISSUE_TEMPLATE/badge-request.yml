@@ -1,0 +1,30 @@
+name: Badge Request
+about: Request a badge for your profile
+title: ''
+labels: Badge Request
+assignees: wingio
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Discord ID
+      description: Your Discord ID: [How to get your Discord user id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+      placeholder: Ex. 298295889720770563
+    validations:
+      required: true
+  - type: input
+    id: drawable_icon
+    attributes:
+      label: Drawable Name
+      description: Provide the drawable name from [here](https://gitdab.com/Juby210/discord-jadx/src/branch/alpha/app/src/main/res/drawable)
+      placeholder: Ex. ic_verified_badge
+    validations:
+      required: true
+  - type: input
+    id: toast_msg
+    attributes:
+      label: Toast Message
+      description: Appears when the badge is tapped on
+      placeholder: Ex. Verified Winner
+    validations:
+      required: false
