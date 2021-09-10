@@ -1,6 +1,6 @@
 name: Badge Request
-about: Request a badge for your profile
-title: ''
+description: Request a badge for your profile
+title: "Badge Request"
 labels: Badge Request
 assignees: wingio
 body:
