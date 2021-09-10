@@ -8,7 +8,7 @@ body:
     id: id
     attributes:
       label: Discord ID
-      description: Your Discord ID: [How to get your Discord user id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+      description: How to get your Discord user id: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-
       placeholder: Ex. 298295889720770563
     validations:
       required: true
@@ -16,7 +16,7 @@ body:
     id: drawable_icon
     attributes:
       label: Drawable Name
-      description: Provide the drawable name from [here](https://gitdab.com/Juby210/discord-jadx/src/branch/alpha/app/src/main/res/drawable)
+      description: Provide the drawable name from https://gitdab.com/Juby210/discord-jadx/src/branch/alpha/app/src/main/res/drawable
       placeholder: Ex. ic_verified_badge
     validations:
       required: true
