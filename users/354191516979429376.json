@@ -1,0 +1,16 @@
+{
+    "badges": [
+        {
+            "icon": "img_logo",
+            "toast": "Custom Badge"
+        },
+        {
+            "icon": "ic_verified_badge_banner",
+            "toast": "Birthday: 17.11.2003"
+        },
+        {
+            "icon": "icon_flag_de",
+            "toast": "Germany"
+        }
+    ]
+}
