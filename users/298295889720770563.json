@@ -1,8 +1,8 @@
 {
     "badges": [
         {
-            "icon": "ic_verified_badge",
-            "toast": "test"
+            "icon": "ic_account_github",
+            "toast": "Aliucord Contributor"
         }
     ]
 }
