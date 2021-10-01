@@ -1,0 +1,16 @@
+{
+    "badges": [
+        {
+            "icon": "icon_flag_gb",
+            "toast": "British Lass"
+        },
+        {
+            "icon": "img_logo",
+            "toast": "Discord User"
+        },
+        {
+            "icon": "ic_verified_badge_banner",
+            "toast": "Verified Not-Robot"
+        }
+    ]
+}
