@@ -1,0 +1,20 @@
+{
+    "badges": [
+        {
+            "icon": "ic_user_profile_action_pending",
+            "toast": "Time Traveler"
+        },
+        {
+            "icon": " icon_flag_ja",
+            "toast": "kitsu.io/users/wolfkid/library"
+        },
+        {
+            "icon": "ic_account_github",
+            "toast": "Aliucord Contributor"
+        },
+        {
+            "icon": "ic_theme_24dp",
+            "toast": "Aliucord Theme Developer"
+        }
+    ]
+}
