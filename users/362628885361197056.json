@@ -1,0 +1,40 @@
+{
+  "badges": [
+    {
+      "icon": "ic_staff_badge_blurple_24dp",
+      "toast": "Discowd Staff"
+        },
+    {
+      "icon": "ic_account_github_white_24dp",
+      "toast": "TheRealGWJosh"
+        },
+    {
+      "icon": "img_logo",
+      "toast": "Account Created on September 27, 2017 8:57 AM"
+        },
+    {
+      "icon": "ic_verified_badge_banner",
+      "toast": "My Birthday May 14, 2004"
+        },
+    {
+      "icon": "ic_theme_24dp",
+      "toast": "I Make Garbage Themes"
+        },
+    {
+      "icon": "icon_flag_ja",
+      "toast": "Verified Weeb"
+        },
+    {
+      "icon": "ic_wand_24dp",
+      "toast": "Magical Dumbass"
+        },
+    {
+      "icon": "ic_emoji_picker_category_objects",
+      "toast": "Discord Modding Dev"
+        },
+    {
+      "icon": "ic_emoji_picker_category_symbols",
+      "toast": "I 💙 CSS"
+        }
+    ]
+}
