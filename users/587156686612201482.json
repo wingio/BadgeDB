@@ -3,6 +3,10 @@
         {
             "icon": "ic_theme_24dp",
             "toast": "Aliucord Theme Developer"
+        },
+        {
+            "icon": "icon_flag_en_us",
+            "toast": "Georgia, USA"
         }
     ]
 }
